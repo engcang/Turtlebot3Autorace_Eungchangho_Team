@@ -1,9 +1,11 @@
 # Turtlebot3Autorace_Eungchangho_Team
-2018 R-BIZ Challenge, Turtlebot3 Autorace Special Prized Awarded Script files
-</br>
++ 2018 R-BIZ Challenge, Turtlebot3 Autorace Special Prized Awarded Script files
+# + Turtlebot3 Lane Keeping and Kinematic Control code and detail [Click here](https://github.com/engcang/turtlebot3)
+</br></br>
+
 
 ## Index
-+ [Necessaries](Necessaries)
++ [Necessaries](#Necessaries)
 + [Preliminaries_MATLAB](#Preliminaries_MATLAB)
 + [Finals_Python](#Finals_Python)
 </br></br>
