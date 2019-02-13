@@ -1,7 +1,8 @@
 # Turtlebot3 Autorace - Eungchangho Team
 + 2018 R-BIZ Challenge, Turtlebot3 Autorace Special Prized Awarded Script files
-#### ● Kyungpook National University, EungChang Mason Lee, JongCheon Park, YongSik Jin, BeomJu Kim from [Cyber Physical Systems and Control Lab](http://control.knu.ac.kr)
-#### ● Turtlebot3 Lane Keeping and Kinematic Control code and detail [Click here](https://github.com/engcang/turtlebot3)
+  #### ● Kyungpook National University, EungChang Mason Lee, JongCheon Park, YongSik Jin, BeomJu Kim
+  #### from [Cyber Physical Systems and Control Lab](http://control.knu.ac.kr)
+  #### ● Turtlebot3 Lane Keeping and Kinematic Control code and detail [Click here](https://github.com/engcang/turtlebot3)
 </br></br>
 
 
@@ -28,7 +29,7 @@
 + Excute **main_node.py** later
 <br>
 
-### Robot was not renovated but just camera was fixed
+### ※ Robot was not renovated but just camera was fixed
 <p align="">
 <img src="https://github.com/engcang/image-files/blob/master/opencv/Turtlebot3_LaneKeeping.gif" />
 </p>
