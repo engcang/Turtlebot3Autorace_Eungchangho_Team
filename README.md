@@ -1,5 +1,5 @@
 # Turtlebot3 Autorace - Eungchangho Team
-+ Kyungpook National University, <EungChang Mason Lee>, <JongCheon Park>, <YongSik Jin>, <BeomJu Kim> from [Cyber Physical Systems and Control Lab](http://control.knu.ac.kr)
++ Kyungpook National University, {EungChang Mason Lee}, <JongCheon Park>, <YongSik Jin>, <BeomJu Kim> from [Cyber Physical Systems and Control Lab](http://control.knu.ac.kr)
 + 2018 R-BIZ Challenge, Turtlebot3 Autorace Special Prized Awarded Script files
 ### ● Turtlebot3 Lane Keeping and Kinematic Control code and detail [Click here](https://github.com/engcang/turtlebot3)
 </br></br>
